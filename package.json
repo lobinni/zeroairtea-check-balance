@@ -1,0 +1,33 @@
+{
+  "name": "zeroairtea-check-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerotopay/zeroairtea-check-balance.git"
+  },
+  "keywords": [
+    "zeroairtea-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "zerotopay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerotopay/zeroairtea-check-balance/issues"
+  },
+  "homepage": "https://github.com/zerotopay/zeroairtea-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "ftm-gas-convert": "1.0.0"
+
+  }
+}
