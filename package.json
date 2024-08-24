@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zerotopay/zeroairtea-check-balance.git"
+    "url": "https://github.com/lobinni/zeroairtea-check-balance.git"
   },
   "keywords": [
     "zeroairtea-check-balance",
@@ -18,12 +18,12 @@
     "eth",
     "crypto"
   ],
-  "author": "zerotopay",
+  "author": "lobinni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zerotopay/zeroairtea-check-balance/issues"
+    "url": "https://github.com/lobinni/zeroairtea-check-balance/issues"
   },
-  "homepage": "https://github.com/zerotopay/zeroairtea-check-balance#readme",
+  "homepage": "https://github.com/lobinni/zeroairtea-check-balance#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "web3": "^1.5.2",
